@@ -53,3 +53,12 @@ Analyzed the feasibility of connecting new nodes within the Chamoli district, co
 Road Network Report:
 
 Generated a detailed report on the condition of the existing road network in the Chamoli district, highlighting areas of concern and potential improvements.
+
+sources
+google earth,
+nasa earth dataset,
+GPS Visualizer, 
+QGIS
+
+
+

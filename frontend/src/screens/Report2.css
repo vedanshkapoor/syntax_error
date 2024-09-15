@@ -1,0 +1,46 @@
+/* Main container for the report page */
+.report2-container {
+    padding: 20px;
+    max-width: 1000px;
+    margin: 0 auto;
+    text-align: center;
+  }
+  
+  /* Title of the report page */
+  .report2-title {
+    font-size: 2.5em;
+    color: #333;
+    margin-bottom: 20px;
+  }
+  
+  /* Styling for the image */
+  .report2-image {
+    width: 100%;
+    height: auto;
+    margin-top: 20px;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  }
+  
+  /* Container for the button */
+  .button-container {
+    margin-top: 20px;
+    text-align: center;
+  }
+  
+  /* Styling for the navigation button */
+  .report2-button {
+    padding: 10px 20px;
+    background-color: #1a1a1a;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+  }
+  
+  /* Hover effect for the button */
+  .report2-button:hover {
+    background-color: #333;
+  }
+  
